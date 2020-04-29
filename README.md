@@ -1,5 +1,5 @@
 # :page_with_curl: Sobre
-Aplicação voltada para o recebimento de cashback através de compras cadastradas, essas compras passarão por uma verificação(API) e caso aprovadas irá gerar retorno do valor concedido. Foi desenvolvida em ReactJS utilizando TypeScript, mirageJS para mockar dados fake e requisições de uma API. 
+Aplicação voltada para o recebimento de cashback através de compras cadastradas, essas compras passarão por uma verificação(API) e caso aprovadas irá gerar retorno do valor concedido. Foi desenvolvida em ReactJS utilizando TypeScript com mirageJS para mockar dados fake e requisições de uma API. 
 
 # :computer: Iniciando front-end
 ```bash
